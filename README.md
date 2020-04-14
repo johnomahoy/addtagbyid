@@ -4,7 +4,7 @@
 The script will get all the tags given by the user and insert it into a contact using the contactId as the parameter.
 
 These are the expected data from the user:contactId\
-                                            stringB
+                                            stringB --> Array of tagID
 
  Developed by: Benjie
 
